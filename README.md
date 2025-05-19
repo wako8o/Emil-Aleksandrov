@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Emil Aleksandrov
 
 💻 Certified Python programmer with excellent grades in the courses:
-- Python Basics (SoftUni) –
+- Python Basics (SoftUni) 
 - Python Fundamentals (SoftUni) 
 
 🔧 Experience with:
