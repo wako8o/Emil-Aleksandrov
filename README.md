@@ -23,9 +23,6 @@ Here are some of my public projects (more in my repos 👇):
 - 🐍 [**Python List Methods System**](https://github.com/wako8o/Python-List-Methods-System)  
   Educational project demonstrating list methods in Python.  
 
-- 🗂️ [**Project 2024**](https://github.com/wako8o/Project_2024)  
-  Python-based project (personal learning & experimentation).
-
 - ⚙️ [**OOP**](https://github.com/wako8o/OOP)  
   Object-Oriented Programming exercises and practice projects in Python.  
 
