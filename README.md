@@ -9,7 +9,7 @@
 ## 🔧 Skills & Technologies
 - **Programming:** Python (OOP, data structures, automation)  
 - **Web Development:** Django, HTML, CSS  
-- **Databases:** PostgreSQL, SQLite  
+- **Databases:** PostgreSQL  
 - **Tools:** Git, Linux, Docker, PyCharm  
 
 ---
