@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Emil Aleksandrov
 
 💻 **Certified Python Developer** with excellent grades in the courses:  
-- 🐍 Python Basics (SoftUni) – Excellent grade  
-- 🐍 Python Fundamentals (SoftUni) – Excellent grade  
+
+- 🐍 Software University (SoftUni - Bulgaria) - Python
 
 ---
 
