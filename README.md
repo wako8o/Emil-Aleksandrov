@@ -19,16 +19,16 @@ Here are some of my public projects (more in my repos 👇):
 
 - 🐍 [**Python List Methods System**](https://github.com/wako8o/Python-List-Methods-System)  
   Educational project demonstrating list methods in Python.  
-
+---
 
 - ⚙️ [**OOP**](https://github.com/wako8o/OOP)  
   Object-Oriented Programming exercises and practice projects in Python.
-
+---
 
 - [**PostgreSQL Exercises**](https://github.com/wako8o/PostgreSQL)
 
   PostgreSQL:
-   
+---
  
 - [**Python Advanced**](https://github.com/wako8o/Advanced)
 
