@@ -17,9 +17,6 @@
 ## 🚀 Featured Projects
 Here are some of my public projects (more in my repos 👇):
 
-- 📚 [**Book Collection Manager**](https://github.com/wako8o/Book-Collection-Manager)  
-  Manage your own digital book library with Python (OOP).  
-
 - 🐍 [**Python List Methods System**](https://github.com/wako8o/Python-List-Methods-System)  
   Educational project demonstrating list methods in Python.  
 
